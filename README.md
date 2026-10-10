@@ -50,8 +50,8 @@
 | 🚛 [**Truck Monitor**](https://github.com/mahin-wpdev/truck_monitor) | Bangladesh-compliant truck driver monitoring system (MVO 1983, §63) — web + computer vision + Arduino | HTML · CV · Arduino |
 | 📡 [**Arivo Monitor**](https://github.com/mahin-wpdev/arivo-monitor-public) | Android monitoring app with self-hosted automatic updates | Kotlin |
 | 📶 [**JM Broadband**](https://github.com/mahin-wpdev/jm-broadband-android) | Android app for broadband customers | Flutter · Dart |
-| 🧾 [**ISP Billing Pro**](https://github.com/mahin-wpdev/isp-billing-pro) | Billing management system for ISPs | PHP |
-| 🎨 [**Portfolio Studio**](https://github.com/mahin-wpdev/portfolio-studio) | Portfolio builder for WordPress | PHP |
+| 🧾 [**Arivo ISP Billing**](https://github.com/mahin-wpdev/panel) | Production-ready ISP billing & operations platform (Hotspot, PPPoE, vouchers) | PHP |
+| 💬 [**WhatsApp Send API**](https://github.com/mahin-wpdev/whatsapp-message) | Self-hosted WhatsApp messaging API over HTTP | Node.js |
 | 💼 [**Job Market**](https://github.com/mahin-wpdev/job-market) | Job listing platform | PHP |
 
 ---
